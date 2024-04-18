@@ -1,3 +1,4 @@
 # The Gecko Group at Stanford University
 
-_more to come_
+The Gecko Group works on tools for pharmacogenomics and defining the clinical
+relevance of genes and variants.
