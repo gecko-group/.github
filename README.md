@@ -1,2 +1,3 @@
 # .github
-Information about the Gecko Group at Stanford University
+
+The Gecko Group's GitHub organization profile.
